@@ -1,4 +1,4 @@
-<p align="center">
+<p align="‎𓄂⍣⃝𝐆𝚯𝐃𝄟✮͢≛𝐷𝐴𝑆𝐻𝐸𝐸 ⃝𝄟✮⃝☠️💤">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐊𝐋𝐀𝐔𝐒-𝐌𝐃;WHATSAPP+☑️++BOT;DEVELOPED+BY+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
   </a>
@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://www.youtube.com/@DRK-TECH"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DRK-TECH" /><br>
 <a href="https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
-<a href="https://t.me/+13472314632"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://t.me/+50942468073"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPED BY 𝙎-𝙏𝞢𝞜 
